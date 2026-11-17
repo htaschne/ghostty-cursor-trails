@@ -1,0 +1,4 @@
+Source: https://github.com/sahaj-b/cursor-shaders
+Commit: 9ad9158a93c0de0c045e1c6b27df37da698bc8af
+Shader: ghostty/cursor_warp.glsl
+Local tuning: duration 0.18s; movement threshold 0; fade enabled; fade exponent 2.
